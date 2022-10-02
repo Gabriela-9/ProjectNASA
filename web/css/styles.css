@@ -38,7 +38,7 @@ Colors:
 - Backgrounds - light gray #fbfbfb
 - Background - dark blue #153e52
 - Backgrounds navbar, footer - dark gray #113448
-- Buttons, bullets, icons - green #6c14bf
+- Buttons, bullets, icons - green #ee8420
 - Headings text - black #484a46
 - Body text - gray #787976
 - Body text - light gray #dfe5ec
@@ -127,7 +127,7 @@ a:hover {
 }
 
 a.green {
-    color: #6c14bf;
+    color: #f59221;
 }
 
 a.white,
@@ -148,16 +148,16 @@ strong {
 }
 
 .section-title {
-    color: #6c14bf;
+    color: #ee8420;
     font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
 }
 
 .btn-solid-reg {
     display: inline-block;
     padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-    border: 0.125rem solid #6c14bf;
+    border: 0.125rem solid #ee8420;
     border-radius: 0.25rem;
-    background-color: #6c14bf;
+    background-color: #ee8420;
     color: #fff;
     font: 700 0.75rem/0 "Montserrat", sans-serif;
     text-decoration: none;
@@ -166,16 +166,16 @@ strong {
 
 .btn-solid-reg:hover {
     background-color: transparent;
-    color: #6c14bf;
+    color: #ee8420;
     text-decoration: none;
 }
 
 .btn-solid-lg {
     display: inline-block;
     padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-    border: 0.125rem solid #6c14bf;
+    border: 0.125rem solid #ee8420;
     border-radius: 0.25rem;
-    background-color: #6c14bf;
+    background-color: #ee8420;
     color: #fff;
     font: 700 0.75rem/0 "Montserrat", sans-serif;
     text-decoration: none;
@@ -184,7 +184,7 @@ strong {
 
 .btn-solid-lg:hover {
     background-color: transparent;
-    color: #6c14bf;
+    color: #ee8420;
     text-decoration: none;
 }
 
@@ -399,9 +399,9 @@ screen and (-ms-high-contrast: none) {
     display: inline-block;
     width: 100%;
     height: 3.125rem;
-    border: 0.125rem solid #6c14bf;
+    border: 0.125rem solid #ee8420;
     border-radius: 0.25rem;
-    background-color: #6c14bf;
+    background-color: #ee8420;
     color: #fff;
     font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
     cursor: pointer;
@@ -410,7 +410,7 @@ screen and (-ms-high-contrast: none) {
 
 .form-control-submit-button:hover {
     background-color: transparent;
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 
@@ -767,7 +767,7 @@ screen and (-ms-high-contrast: none) {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 
@@ -816,7 +816,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -1055,7 +1055,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .cards-2 .list-unstyled .fas {
-    color: #6c14bf;
+    color: #ee8420;
     font-size: 0.5rem;
     line-height: 1.375rem;
 }
@@ -1072,7 +1072,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .cards-2 .price span {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 .cards-2 .button-container {
@@ -1125,9 +1125,9 @@ screen and (-ms-high-contrast: none) {
     width: 2.25rem;
     height: 2.25rem;
     margin-right: 0.875rem;
-    border: 0.125rem solid #6c14bf;
+    border: 0.125rem solid #ee8420;
     border-radius: 50%;
-    background-color: #6c14bf;
+    background-color: #ee8420;
     color: #fff;
     font: 700 1rem/2.125rem "Montserrat", sans-serif;
     text-align: center;
@@ -1143,8 +1143,8 @@ screen and (-ms-high-contrast: none) {
 }
 
 .accordion .item:hover span[aria-expanded="false"] .circle-numbering {
-    border: 0.125rem solid #6c14bf;
-    color: #6c14bf;
+    border: 0.125rem solid #ee8420;
+    color: #ee8420;
 }
 
 .accordion .accordion-title {
@@ -1160,11 +1160,11 @@ screen and (-ms-high-contrast: none) {
 }
 
 .accordion .item:hover .accordion-title {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 .accordion span[aria-expanded="true"] .accordion-title {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 .accordion .accordion-body {
@@ -1208,7 +1208,7 @@ screen and (-ms-high-contrast: none) {
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 .tabs .nav-link .fas {
@@ -1238,7 +1238,7 @@ screen and (-ms-high-contrast: none) {
     display: block;
     padding-left: 1.5rem;
     border-radius: 0.125rem;
-    background: linear-gradient(to bottom right, #6c14bf, #1bd1a7);
+    background: linear-gradient(to bottom right, #ee8420, #1bd1a7);
 }
 
 .tabs #tab-1 .progress-bar.first {
@@ -1264,7 +1264,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .tabs #tab-2 .list-unstyled .media-bullet {
-    color: #6c14bf;
+    color: #ee8420;
     font-weight: 600;
     font-size: 2rem;
     line-height: 2rem;
@@ -1275,7 +1275,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .tabs #tab-3 .list-unstyled .fas {
-    color: #6c14bf;
+    color: #ee8420;
     font-size: 0.5rem;
     line-height: 1.375rem;
 }
@@ -1398,7 +1398,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .form-1 .list-unstyled .fas {
-    color: #6c14bf;
+    color: #ee8420;
     font-size: 0.5rem;
     line-height: 1.375rem;
 }
@@ -1488,12 +1488,12 @@ screen and (-ms-high-contrast: none) {
 }
 
 .filter .button-group a:hover {
-    background-color: #6c14bf;
+    background-color: #ee8420;
     color: #fff;
 }
 
 .filter .button-group a.button.is-checked {
-    background-color: #6c14bf;
+    background-color: #ee8420;
     color: #fff;
 }
 
@@ -1585,7 +1585,7 @@ screen and (-ms-high-contrast: none) {
     margin-bottom: 0.625rem;
     margin-left: 0;
     border: none;
-    background-color: #6c14bf;
+    background-color: #ee8420;
 }
 
 .lightbox-basic h6 {
@@ -1725,7 +1725,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .basic-2 .fa-stack:hover .fa-stack-1x {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 
@@ -1763,7 +1763,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .counter .list-unstyled .fas {
-    color: #6c14bf;
+    color: #ee8420;
     font-size: 0.5rem;
     line-height: 1.375rem;
 }
@@ -1785,7 +1785,7 @@ screen and (-ms-high-contrast: none) {
 .counter #counter .counter-value {
     display: inline-block;
     margin-bottom: 0.125rem;
-    color: #6c14bf;
+    color: #ee8420;
     font: 700 2.875rem/3.25rem "Montserrat", sans-serif;
     vertical-align: middle;
 }
@@ -1835,7 +1835,7 @@ screen and (-ms-high-contrast: none) {
 .form-2 .list-unstyled .fab {
     margin-right: 0.5rem;
     font-size: 0.875rem;
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 .form-2 .list-unstyled .fa-phone {
@@ -1876,7 +1876,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-    color: #6c14bf;
+    color: #ee8420;
 }
 
 
@@ -1948,7 +1948,7 @@ a.back-to-top {
     width: 2.625rem;
     height: 2.625rem;
     border-radius: 1.875rem;
-    background: #6c14bf url("../images/up-arrow.png") no-repeat center 47%;
+    background: #ee8420 url("../images/up-arrow.png") no-repeat center 47%;
     background-size: 1.125rem 1.125rem;
     text-indent: -9999px;
 }
@@ -2010,7 +2010,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-    color: #6c14bf;
+    color: #ee8420;
     font-size: 0.5rem;
     line-height: 1.375rem;
 }
@@ -2065,7 +2065,7 @@ a:hover.back-to-top {
     }
     .navbar-custom .nav-item .nav-link:hover,
     .navbar-custom .nav-item .nav-link.active {
-        color: #6c14bf;
+        color: #ee8420;
     }
     .navbar-custom.top-nav-collapse {
         padding: 0.375rem 1.5rem 0.375rem 2rem;
@@ -2080,7 +2080,7 @@ a:hover.back-to-top {
     }
     .navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
     .navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-        color: #6c14bf;
+        color: #ee8420;
     }
     .navbar-custom .dropdown-menu {
         padding-top: 1rem;
@@ -2217,7 +2217,7 @@ a:hover.back-to-top {
         transition: all 0.2s ease;
     }
     .navbar-custom .fa-stack:hover .fa-stack-1x {
-        color: #6c14bf;
+        color: #ee8420;
     }
     /* end of navigation */
     /* Header */
