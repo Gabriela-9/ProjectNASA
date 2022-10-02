@@ -868,7 +868,7 @@ screen and (-ms-high-contrast: none) {
 /*********************/
 
 .header {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/space3.jpg') center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/sol_cerca_1.jpg') center center no-repeat;
     background-size: cover;
 }
 
